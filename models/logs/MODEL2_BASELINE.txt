@@ -1,0 +1,46 @@
+MODEL: MODEL2_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+train_dataset.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(train_dataset): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of train batches: tf.Tensor(411, shape=(), dtype=int64)
+Number of validation batches: tf.Tensor(103, shape=(), dtype=int64)
+example batch size: (32, 7, 7, 1280)
+feature_batch_average.shape: (32, 1280)
+prediction_batch.shape: (32, 5)
+model.trainable_variables: [<tf.Variable 'dense_1/kernel:0' shape=(1280, 5) dtype=float32, numpy=
+array([[ 0.03425003, -0.00845339,  0.00976935, -0.02392209, -0.01552723],
+       [-0.00443584, -0.00401197,  0.022891  ,  0.01785719,  0.03944388],
+       [ 0.02762319,  0.00348477, -0.07658476, -0.02289933, -0.00642649],
+       ...,
+       [-0.00191988,  0.03098713, -0.04045821, -0.09595903,  0.01340881],
+       [-0.03628474, -0.05521907, -0.0040446 , -0.18217734,  0.04204369],
+       [ 0.05941207,  0.1462571 , -0.06316791,  0.0302292 , -0.06234477]],
+      dtype=float32)>, <tf.Variable 'dense_1/bias:0' shape=(5,) dtype=float32, numpy=
+array([ 0.00421167, -0.05638925,  0.04648   , -0.0089043 ,  0.00615671],
+      dtype=float32)>] (two tf.Variable objects, the weights and biases)
+initial loss: 2.009399175643921
+initial accuracy: 0.14790017902851105
+learning_rate: 0.0001
+max_epochs: 25
+epochs_performed: 25
+EarlyStopping (nr_of_epochs): 3
+loss after training: 0.08169762790203094
+accuracy after training: 0.9744369983673096
+MODEL: MODEL2_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+train_dataset.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(train_dataset): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of train batches: tf.Tensor(411, shape=(), dtype=int64)
+Number of validation batches: tf.Tensor(103, shape=(), dtype=int64)
+MODEL: MODEL2_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+train_dataset.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(train_dataset): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of train batches: tf.Tensor(411, shape=(), dtype=int64)
+Number of validation batches: tf.Tensor(103, shape=(), dtype=int64)

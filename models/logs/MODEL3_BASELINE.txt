@@ -1,0 +1,30 @@
+MODEL: MODEL3_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+train_dataset.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(train_dataset): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of train batches: tf.Tensor(514, shape=(), dtype=int64)
+Number of validation batches: tf.Tensor(103, shape=(), dtype=int64)
+example batch size: (32, 7, 7, 1280)
+feature_batch_average.shape: (32, 1280)
+prediction_batch.shape: (32, 5)
+model.trainable_variables: [<tf.Variable 'dense_2/kernel:0' shape=(1280, 5) dtype=float32, numpy=
+array([[-0.04671257,  0.02517688,  0.02397016,  0.00783897, -0.04252599],
+       [-0.05020466, -0.02990358, -0.07144022, -0.00669367,  0.01672025],
+       [ 0.06724953, -0.03146725, -0.00640961,  0.06209401,  0.04967396],
+       ...,
+       [ 0.05060549,  0.03764556,  0.03850657, -0.10934131,  0.01583727],
+       [-0.12501496, -0.04654348,  0.03986241, -0.13127017,  0.07635374],
+       [ 0.03063995,  0.14301862, -0.04359072,  0.03083777, -0.08315647]],
+      dtype=float32)>, <tf.Variable 'dense_2/bias:0' shape=(5,) dtype=float32, numpy=
+array([-0.00593584, -0.05891656,  0.0464575 , -0.00559104,  0.01308869],
+      dtype=float32)>] (two tf.Variable objects, the weights and biases)
+initial loss: 1.8018059730529785
+initial accuracy: 0.23037126660346985
+learning_rate: 0.0001
+max_epochs: 25
+epochs_performed: 25
+EarlyStopping (nr_of_epochs): 3
+loss after training: 0.04837512969970703
+accuracy after training: 0.9856969118118286

@@ -1,0 +1,132 @@
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+MODEL: MODEL1_BASELINE
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+MODEL: MODEL1_BASELINE
+class_names: ['bicycle' 'bus' 'car' 'motorcycle' 'truck']
+number of classes: 5
+test_dataset1.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+test_dataset2.element_spec: (TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))
+type(test_dataset1): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+type(test_dataset2): <class 'tensorflow.python.data.ops.dataset_ops.PrefetchDataset'>
+IMAGES_SHAPE after scaling: images shape: (224, 224, 3)
+Number of test_dataset1 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
+Number of test_dataset2 batches: <PrefetchDataset element_spec=(TensorSpec(shape=(None, 224, 224, 3), dtype=tf.float32, name=None), TensorSpec(shape=(None,), dtype=tf.int32, name=None))>
